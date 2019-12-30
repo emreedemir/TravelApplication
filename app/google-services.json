@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252101441707",
+    "firebase_url": "https://travelapplication-759ed.firebaseio.com",
+    "project_id": "travelapplication-759ed",
+    "storage_bucket": "travelapplication-759ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252101441707:android:e541da8ea69893b5d05fee",
+        "android_client_info": {
+          "package_name": "com.emreedemir.travelapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252101441707-p567ovk6c9ht93t9aojj9kppah7jqkqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFOAJsCda83Ull548pX172vYiPUseBOhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252101441707-p567ovk6c9ht93t9aojj9kppah7jqkqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

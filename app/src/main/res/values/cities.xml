@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_resoruces" >
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>İzmir</item>
+        <item>Bursa</item>
+        <item>Antalya</item>
+        <item>Kars</item>
+        <item>Van</item>
+        <item>Ordu</item>
+        <item>Mersin</item>
+        <item>Kars</item>
+        <item>Tokat</item>
+        <item>Aydın</item>
+        <item>Konya</item>
+        <item>Edirne</item>
+        <item>Mardin</item>
+        <item>Diyarbakır</item>
+        <item>Bolu</item>
+        <item>Zonguldak</item>
+        <item>Uşak</item>
+        <item>Yozgat</item>
+    </string-array>
+</resources>

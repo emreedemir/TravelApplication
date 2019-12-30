@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TravelApplication</string>
+    <string name="buy_ticket">Buy Ticket</string>
+    <string name="cancel_buy_ticket">Cancel Buy</string>
+    <string name="oneWay">One Way</string>
+    <string name="twoWay">Two Way</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="customer_Age">Age</string>
+    <string name="customer_Name">Customer Name</string>
+    <string name="telephone_Number">Telephone Number</string>
+    <string name="tickets">Tickets</string>
+</resources>
