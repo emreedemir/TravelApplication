@@ -8,10 +8,10 @@ import java.io.Serializable;
 
 public class Customer implements Serializable
 {
-    String name="";
-    String age="";
-    String phoneNumber="";
-    String gender="";
+    String name;
+    String age;
+    String phoneNumber;
+    String gender;
 
     public Customer(String name, String age, String phoneNumber, String gender) {
         this.name = name;
