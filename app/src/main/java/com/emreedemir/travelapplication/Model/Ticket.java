@@ -9,11 +9,11 @@ import java.io.Serializable;
 
 public class Ticket implements Serializable
 {
-    private String id="";
-    private  Customer customer=null;
-    private Voyage departureVoyage=null;
-    private Voyage returnVoyage=null;
-    private String cost="";
+    private String id;
+    private  Customer customer;
+    private Voyage departureVoyage;
+    private Voyage returnVoyage;
+    private String cost;
 
     public Ticket(String id, Customer customer, Voyage departureVoyage, String cost) {
         this.id = id;
@@ -30,10 +30,6 @@ public class Ticket implements Serializable
         this.customer = customer;
         this.departureVoyage = departureVoyage;
         this.returnVoyage = returnVoyage;
-        if(this.returnVoyage ==null)
-        {
-            this.returnVoyage = new Voyage();
-        }
         this.cost = cost;
     }
 

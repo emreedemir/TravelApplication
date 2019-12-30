@@ -6,10 +6,10 @@ import java.io.Serializable;
 
 public class Voyage implements Serializable
 {
-    private String departureCity="";
-    private String departureDate="";
-    private String departureHour="";
-    private String returnCity="";
+    private String departureCity;
+    private String departureDate;
+    private String departureHour;
+    private String returnCity;
 
     public Voyage()
     {

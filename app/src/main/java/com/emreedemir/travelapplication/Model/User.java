@@ -4,8 +4,8 @@ import java.io.Serializable;
 
 public class User implements Serializable
 {
-    private String email="";
-    private String password="";
+    private String email;
+    private String password;
 
     public User(String email, String password) {
         this.email = email;
